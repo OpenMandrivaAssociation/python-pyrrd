@@ -37,3 +37,13 @@ rm -rf %{buildroot}
 %{python_sitelib}/*
 
 
+
+
+%changelog
+* Thu Jun 09 2011 Antoine Ginies <aginies@mandriva.com> 0.0.7-1.4
++ Revision: 683359
+- import python-pyrrd
+
+
+* Wed Jun 9 2011 Antoine Ginies <aginies@mandriva.com> 0.0.7
+- first release for Mandriva
