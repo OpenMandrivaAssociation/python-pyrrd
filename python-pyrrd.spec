@@ -1,7 +1,7 @@
 %define modname PyRRD
 Name:           python-pyrrd
 Version:        0.0.7
-Release:        1.4
+Release:        1.5
 Summary:        An Object-Oriented Python Interface for RRD
 URL:            http://code.google.com/p/pyrrd/
 License:        BSD
